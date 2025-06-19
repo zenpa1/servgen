@@ -22,5 +22,10 @@ pip install pycord
 ```python
 python main.py
 ```
+- Use ! for prefix commands or use slash commands on Discord
+  - start
+  - stop
+  - restart
+  - status
 
 Developed by zenpa1
