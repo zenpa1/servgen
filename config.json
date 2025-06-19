@@ -1,8 +1,9 @@
 {
-    "minecraft_server_path": "/path/to/your/server",
+    "minecraft_server_path": "C:/server/directory",
     "server_jar": "server.jar",
-    "java_args": "-Xmx4G -Xms2G",
-    "discord_token": "your_bot_token",
-    "allowed_user_ids": ["your_discord_id"],
-    "server_port": 25565
+    "java_args": "-Xmx8G -Xms256M",
+    "discord_token": "discord bot token",
+    "server_port": 25565,
+    "server_address": "server address",
+    "guilds": [discord server id]
 }
