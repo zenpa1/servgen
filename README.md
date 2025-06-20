@@ -13,10 +13,10 @@ A simple Discord bot that acts as a switch for a Minecraft server.
 - Create and manage multiple servers
 
 # Instructions
-- Install discord.py and pycord through terminal (using pip)
+- Install discord.py and py-cord through terminal (using pip)
 ```bash
 pip install discord.py  
-pip install pycord
+pip install py-cord
 ```
 - Run main.py (using python)
 ```python
