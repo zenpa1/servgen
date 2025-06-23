@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```python
 python main.py
 ```
-- Use ! for prefix commands or use slash commands on Discord
+- Use ! for prefix commands, mention the bot, or use slash commands on Discord
   - start
   - stop
   - restart
